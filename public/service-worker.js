@@ -4,8 +4,7 @@ const FILES_TO_CACHE = [
     '/index.js',
     '/manifest.webmanifest',
     '/icons/icon-192x192.png',
-    '/styles.css',
-    ,
+    '/styles.css'
   ];
   
   const PRECACHE = 'precache-v1';
