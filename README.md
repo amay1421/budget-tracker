@@ -6,4 +6,4 @@ This is a Budget Tracker application that allows users to add expenses and depos
 
 <strong>Deployed Link:<strong>
 <br>
-<strong>Repo Link:</strong>
+<strong>Repo Link:</strong> https://github.com/amay1421/budget-tracker
