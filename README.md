@@ -4,6 +4,6 @@ This is a Budget Tracker application that allows users to add expenses and depos
 
 <img src="./public/icons/budget-tracker.png">
 
-<strong>Deployed Link:<strong>
+<strong>Deployed Link:<strong>https://murmuring-sands-27119.herokuapp.com/s
 <br>
 <strong>Repo Link:</strong> https://github.com/amay1421/budget-tracker
